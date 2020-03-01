@@ -5,6 +5,6 @@
     </head>
     <body>
     <h2>Hello World.</h2>
-    <p><a href="/login.jsp">Login</a></p>
+    <p style="color:deeppink">Login</p>
     </body>
 </html>
