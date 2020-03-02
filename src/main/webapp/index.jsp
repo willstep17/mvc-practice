@@ -6,5 +6,5 @@
     <body>
     <h2>Hello World.</h2>
     <p style="color:deeppink">Login</p>
-    </body>
+    </body
 </html>
